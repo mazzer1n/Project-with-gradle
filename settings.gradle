@@ -1,0 +1,1 @@
+rootProject.name = 'gradlestarter' //читается при многомодульном проекте, один на проект
